@@ -8,6 +8,10 @@ h1 {
     font-family: 'Poppins', sans-serif;
     font-size: 29px;
 }
+h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: x-large;
+}
 
 p {
     font-family: 'Open Sans', sans-serif;
