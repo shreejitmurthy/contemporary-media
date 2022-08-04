@@ -24,6 +24,15 @@ h3 {
 
 
 .light-theme {
-    color: #dfdfdf;
+    color: #f7f7f7;
     background: #212633;
   }
+
+  blockquote {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    padding-left: 15px;
+    border-left: 3px solid #ccc;
+  }
+  
