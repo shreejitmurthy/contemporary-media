@@ -22,6 +22,10 @@ h3 {
     font-family: 'Roboto', sans-serif;
 }
 
+a {
+    color: #f7f7f7;
+    text-decoration: none;
+}
 
 .light-theme {
     color: #f7f7f7;
