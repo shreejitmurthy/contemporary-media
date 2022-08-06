@@ -28,63 +28,63 @@ h3 {
     background: #212633;
   }
 
-  blockquote {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 20px;
-    padding-left: 15px;
-    border-left: 3px solid #ccc;
-  }
+blockquote {
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 20px;
+padding-left: 15px;
+border-left: 3px solid #ccc;
+}
 
-  .ptable table{
-  	margin: 30px auto;
-  	border-collapse: collapse;
-  }
+.ptable table{
+margin: 10px;
+border-collapse: collapse;
+}
 
-  .ptable{
-  	margin: 0px 0% 30px 0%;
-  }
+.ptable{
+    margin: 0px 0% 30px 0%;
+}
 
-  th, td {
-      padding: 10px;
-  }
+th, td {
+    padding: 10px;
+}
 
-  td{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-  }
+td{
+font-family: 'Open Sans', sans-serif;
+font-size: 14px;
+}
 
-  th{
-  	background-color: #212633;
-  	color: #f7f7f7;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 17px;
-  }
+th{
+background-color: #212633;
+color: #f7f7f7;
+font-family: 'Open Sans', sans-serif;
+font-size: 17px;
+}
 
-  .headin{
-  	text-align: center;
-  	text-decoration: none;
-  	margin: 30px;
-  	display: block;
-  }
+/* .heading{
+text-align: left;
+text-decoration: none;
+margin: 30px;
+display: block;
+} */
 
-  .wpos{
-  	text-align: center;
-  }
+.wpos{
+text-align: center;
+}
 
-  .wpos td{
-  	color: #f7f7f7;
-  }
+.wpos td{
+color: #f7f7f7;
+}
 
-  .pos{
-  	text-align: center;
-  }
+.pos{
+text-align: center;
+}
 
 
-  .wpos:hover{
-  	background-color: #2e3445;
-  }
+.wpos:hover{
+background-color: #2e3445;
+}
 
-  .wpos:hover td{
-  	color: #f7f7f7;
-  }
+.wpos:hover td{
+color: #f7f7f7;
+}
