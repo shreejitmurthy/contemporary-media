@@ -35,19 +35,15 @@ a {
 blockquote {
 margin-top: 10px;
 margin-bottom: 10px;
-margin-left: 20px;
+margin-left: 10px;
 padding-left: 15px;
 border-left: 3px solid #ccc;
 }
 
 .ptable table{
-margin: 10px;
-border-collapse: collapse;
+    margin-left: 40px;
 }
 
-.ptable{
-    margin: 0px 0% 30px 0%;
-}
 
 th, td {
     padding: 10px;
@@ -80,9 +76,9 @@ text-align: center;
 color: #f7f7f7;
 }
 
-.pos{
+/* .pos{
 text-align: center;
-}
+} */
 
 
 .wpos:hover{
