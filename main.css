@@ -33,6 +33,13 @@ a {
     text-decoration: none;
 }
 
+caption {
+    text-align: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    caption-side: bottom;
+}
+
 /* Page Style */
 
 .light-theme {
