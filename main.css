@@ -45,8 +45,8 @@ border-left: 3px solid #ccc;
 } */
 
 .standings table {
-    margin-left: 850px;
-    float: 30px;
+    float: right;
+    margin: 10px;
 }
 .endstandings table {
     margin-right: 30px;
