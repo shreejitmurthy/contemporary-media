@@ -33,12 +33,6 @@ a {
     text-decoration: none;
 }
 
-caption {
-    text-align: right;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    caption-side: bottom;
-}
 
 /* Page Style */
 
@@ -64,6 +58,12 @@ border-left: 3px solid #ccc;
     margin: 30px;
 }
 
+caption {
+    text-align: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    caption-side: bottom;
+}
 
 
 td{
