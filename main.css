@@ -44,11 +44,11 @@ a {
 /* Quote */
 
 blockquote {
-margin-top: 10px;
-margin-bottom: 10px;
-margin-left: 10px;
-padding-left: 15px;
-border-left: 3px solid #ccc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-left: 15px;
+    border-left: 3px solid #ccc;
 }
 
 /* Table Styling */
@@ -73,37 +73,37 @@ padding: 10px;
 }
 
 th{
-background-color: #212633;
-color: #f7f7f7;
-font-family: 'Open Sans', sans-serif;
-font-size: 17px;
-padding: 10px;
+    background-color: #212633;
+    color: #f7f7f7;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    padding: 10px;
 }
 
 .heading{
-text-align: right;
-text-decoration: none;
-margin: 30px;
-display: block;
+    text-align: right;
+    text-decoration: none;
+    margin: 30px;
+    display: block;
 }
 
 .wpos{
-text-align: center;
+    text-align: center;
 }
 
 .wpos td{
-color: #f7f7f7;
+    color: #f7f7f7;
 }
 
 .pos{
-text-align: center;
+    text-align: center;
 }
 
 
 .wpos:hover{
-background-color: #2e3445;
+    background-color: #2e3445;
 }
 
 .wpos:hover td{
-color: #f7f7f7;
+    color: #f7f7f7;
 }
