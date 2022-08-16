@@ -57,6 +57,7 @@ blockquote {
     float: left;
     margin-left: 5px;
     margin-bottom: 20px;
+    margin-right:10px;
 }
 
 caption {
@@ -64,6 +65,13 @@ caption {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     caption-side: bottom;
+}
+
+figcaption {
+    text-align: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    /* caption-side: bottom; */
 }
 
 
