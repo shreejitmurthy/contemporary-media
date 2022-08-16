@@ -54,7 +54,7 @@ blockquote {
 /* Table Styling */
 
 .standings table {
-    float: left;
+    float: right;
     margin-left: 5px;
     margin-bottom: 20px;
     margin-right:10px;
