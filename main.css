@@ -38,7 +38,7 @@ a {
 
 .light-theme {
     color: #f7f7f7;
-    background: #212633;
+    background: linear-gradient(500deg, #212633, #31324a);
   }
 
 /* Quote */
@@ -55,7 +55,7 @@ blockquote {
 
 .standings table {
     float: right;
-    margin-left: 5px;
+    margin-left: 10px;
     margin-bottom: 20px;
     margin-right:10px;
 }
@@ -82,7 +82,7 @@ padding: 10px;
 }
 
 th{
-    background-color: #212633;
+    /* background-color: #212633; */
     color: #f7f7f7;
     font-family: 'Open Sans', sans-serif;
     font-size: 17px;
